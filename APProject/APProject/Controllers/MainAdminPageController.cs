@@ -28,7 +28,7 @@ namespace APProject.Controllers
         {
             return Ok();
         }
-        /*херня жопа*/
+        /*херня жоdfgdfgdfgdfgпа*/
 
     }
 }
